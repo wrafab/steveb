@@ -17,7 +17,7 @@ a {font-family:verdana;font-size:}100%;}
 
 <body>
 <h1> Bakari Steve | WRA Digital Fab 2018</h1>
-<h2>Computer-Aided Design</h1>
+<h2>
 <p>
 <hr style="width:50%">
 </p>
