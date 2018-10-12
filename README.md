@@ -10,7 +10,7 @@
 <hr style="width:50%">
 </p>
 <H3> Week 2 August 29th - September 7th | Computer-aided Design Assignment</h3>
-<p> The assignment for the week was to create different shapes on fusion 360, once we officially got used to the app we were challenged with making 6 out of 50 different shapes we were given.a<a href= 
+<p> The assignment for the week was to create different shapes on fusion 360, once we officially got used to the app we were challenged with making 6 out of 50 different shapes we were given.<a href= 
 <hr style="width:50%">
 </p>
 <H3> September 10 - 18th | Rotation 3 : Garment, Sublimation, UV printing Printing</h3>
