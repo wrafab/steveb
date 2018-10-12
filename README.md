@@ -1,7 +1,7 @@
 # steveb
 
 
-</style>
+
 
 <body>
 <h1> Bakari Steve | WRA Digital Fab 2018</h1>
